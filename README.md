@@ -21,4 +21,20 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Contributed by: Matthew Davies
 
+Changes to Gutenberg documents:
+In "Helps and Hints for Hallowe’en" (1.html):
+- Set the style to be the file "style.css"
+- Renamed "figcenter" to "fig"
+- Removed body, h1, h2, h3, h4, p, table, and fig styles
+
+In "The Book of Hallowe'en" (2.html):
+- Set the style to be the file "style.css"
+- Renamed "figcenter" to "fig"
+- Removed body, h1, h2, h3, h4, h5, h6, p, table, and fig styles
+
+In "The Topaz Story Book" (3.html):
+- Set the style to be the file "style.css"
+- Renamed "figcenter" to "fig"
+- Removed body, h1, h2, h3, p, table, and fig styles

@@ -1,0 +1,146 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    width: fit-content;
+    text-align: center;
+    margin: 0.625em auto;
+    max-width: 45em;
+}
+
+header {
+    background-image: url("./images/header_background.png");
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    list-style: none;
+    display:inline-block;
+    padding: 0.625em;
+    background-color:#ffcc00;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+main {
+    background-color: white;
+    display: flex;
+}
+
+.main-body {
+    max-width: 32em;
+}
+
+#whoishe {
+    text-align: left;
+    display: flex;
+}
+
+#whoishe img {
+    width: 12em;
+    height: 17em;
+    margin: auto 1.25em;
+    display: block;
+}
+
+#whoishe div {
+    padding: 0 0.625em;
+}
+
+#actinghistory {
+    text-align: left;
+    display: flex;
+}
+
+#actinghistory img {
+    width: 10em;
+    height: 10em;
+    margin: auto 0.2em;
+    display: block;
+}
+
+#actinghistory div {
+    padding: 0 0.625em;
+    max-width: 18.75em;
+}
+
+#whatcanhedo {
+    text-align: left;
+}
+
+#whatcanhedo h2 {
+    padding: 0 0.625em;
+}
+
+h2 {
+    background-color: #fd67cb;
+}
+
+#whatcanhedo div {
+    text-align: left;
+    display: flex;
+    padding: 0 0.625em;
+}
+
+#whatcanhedo div img {
+    width: 10em;
+    height: 12.5em;
+    padding: 0.625em 0;
+}
+
+#whatcanhedo div p {
+    margin: 1em 0.625em;
+    padding: 0 0.625em;
+}
+
+.sidebar {
+    margin: 0.625em;
+    background-color: #ffcc00;
+}
+
+.info {
+    padding: 0.3em 0;
+}
+
+.info h2 {
+    margin: 0.2em;
+    font-style: italic;
+    background-color: transparent ;
+}
+
+.info div p {
+    padding: 0 0.2em;
+    color: #006599;
+}
+
+.sidebar img {
+    max-width: 13.75em;
+    margin-top: 0.625em;
+}
+
+footer {
+    margin: 0 auto;
+}
+
+footer ul {
+    padding: 0;
+    margin: 0;
+}
+
+footer ul li {
+    list-style: none;
+    display:inline-block;
+    padding: 0.625em;
+    height: 100%;
+    background-color: #ffcc00;
+}
+
+footer ul li a {
+    color: black;
+    text-decoration: none;
+}
